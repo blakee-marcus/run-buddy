@@ -82,6 +82,28 @@ h3 {
     position: relative;
 }
 
+.hero-cta {
+    padding: 20px;
+    position: absolute;
+    width: 500px;
+    top: 50px;
+    left: 80px;
+
+}
+
+.hero-text h1 {
+    color: #fce138;
+    text-align: right;
+    font-style: italic;
+    font-size: 52px;
+
+}
+
+.hero-text p {
+    color: white;
+    text-align: right;
+}
+
 .hero-form {
     border: solid 3px #024e76;
     background-color: #fce138;
