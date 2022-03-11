@@ -12,6 +12,7 @@ body {
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
+    flex-wrap: wrap;
 }
 
 header h1 {
@@ -91,7 +92,7 @@ h3 {
 
 }
 
-.hero-text h1 {
+.hero-cta h1 {
     color: #fce138;
     text-align: right;
     font-style: italic;
@@ -99,7 +100,7 @@ h3 {
 
 }
 
-.hero-text p {
+.hero-cta p {
     color: white;
     text-align: right;
 }
